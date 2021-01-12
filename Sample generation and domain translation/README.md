@@ -12,4 +12,6 @@ Then, implements an upper sampling technique using SMOTE and compares the result
 The scripts implements a Variational Autoencoder on mRNA samples, one on meth samples and performs the domain translation using the encoder for mRNA and the decoder for math samples.
 Again, the results are comapred with PCA an TSNE.
 
+<img src="https://github.com/irenebenedetto/bioinformatics-labs/blob/main/imgs/autoencoders.png">
+
 
